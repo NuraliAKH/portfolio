@@ -76,7 +76,7 @@ const Contact = () => {
               href="https://t.me/nuri_m" // Замените на ваш Telegram username
               className="bg-tertiary py-4 px-6 text-white rounded-lg outline-none border-none font-medium"
             >
-              @yourusername
+              @nuri_m
             </a>
           </div>
 
@@ -86,7 +86,7 @@ const Contact = () => {
               href="mailto:axmadovnurali5@gmail.com" // Замените на вашу почту
               className="bg-tertiary py-4 px-6 text-white rounded-lg outline-none border-none font-medium"
             >
-              youremail@example.com
+              axmadovnurali5@gmail.com
             </a>
           </div>
 
