@@ -126,7 +126,7 @@ const experiences = [
     company_name: "Upwork",
     icon: upwork,
     iconBg: "#E6DEDD",
-    date: "August 2023 - Зкуыуте",
+    date: "August 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
